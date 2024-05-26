@@ -43,7 +43,8 @@
   </a> 
   &emsp; 
   <a href="https://matplotlib.org/" target="_blank"> 
-   <img alt="Matplotlib Logo" src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" height="40">
+   <img alt="Matplotlib Logo" 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40">
   </a>  
   &emsp; 
   <a href="https://seaborn.pydata.org/" target="_blank"> 
@@ -56,19 +57,7 @@
   &emsp;
   <a href="https://www.tensorflow.org/" target="_blank"> 
    <img alt="TensorFlow Logo" src="https://www.tensorflow.org/images/tf_logo_social.png" width="40" height="40">
-  </a>
-  &emsp;
-  <a href="https://www.nltk.org/" target="_blank"> 
-   <img alt="NLTK Logo" src="https://www.nltk.org/images/nltk.png" width="40" height="40">
-  </a>
-  &emsp;
-  <a href="https://huggingface.co/transformers/" target="_blank"> 
-   <img alt="Transformers Logo" src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40">
-  </a>
-  &emsp;
-  <a href="https://keras.io/" target="_blank"> 
-   <img alt="Keras Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="40" height="40">
-  </a>
+
 </p>
 
 ### 💹 Business Intelligence (BI) Tools
@@ -79,7 +68,7 @@
   </a>
   &emsp;
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/>
+    <img src="C:\Users\Ivan Driwale\Git profile\Ivan-George-Driwale" alt="Tableau" width="40" height="40"/>
   </a>
 </p>
 
