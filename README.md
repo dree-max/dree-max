@@ -135,6 +135,7 @@
 
 
 ## 📈 GitHub Stats
+
 <p align="center">
   <img alt="Driwale's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dree-max&show_icons=true&count_private=true&theme=algolia&hide=contribs" />
   <br/>
@@ -147,6 +148,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dree-max&theme=algolia" alt="Driwale's Trophies" />
 </p>
-
------
-Edited By: [dree-max](https://github.com/dree-max
