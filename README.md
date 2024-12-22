@@ -139,12 +139,13 @@
 <p align="center">
   <img alt="Driwale's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dree-max&show_icons=true&count_private=true&theme=algolia&hide=contribs" />
   <br/>
-  <img alt="Driwale's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=dree-max&theme=algolia" />
-</p>
-<br/>
-
-## Trophy: Git Profile Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dree-max&theme=algolia" alt="Driwale's Trophies" />
-</p>
+  <img alt="Driwale's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=dree-max&theme=algolia" alt="Driwale's Trophies" />
+  </p>
+  <br/>
+  
+  ## Trophy: Git Profile Trophies
+  
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=dree-max&theme=algolia" alt="Driwale's Trophies" />
+  </p>
