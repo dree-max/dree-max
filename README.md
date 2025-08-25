@@ -3,7 +3,6 @@
 # Hi there, I'm Ivan George Driwale! 👋
 
 Welcome to my GitHub profile! I'm a passionate Data Scientist and Machine Learning Engineer from Uganda (The Pearl of Africa). 
-
 Here you'll find a collection of my data science projects, machine learning experiments, and contributions to the field of analytics.
 
 ## 🚀 About Me
@@ -36,10 +35,6 @@ Here you'll find a collection of my data science projects, machine learning expe
 ## 📊 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dree-max&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dree-max&theme=radical&row=1&column=7)
 
 ---
 
