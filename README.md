@@ -2,13 +2,15 @@
 
 # Hi there, I'm Ivan George Driwale! 👋
 
-Welcome to my GitHub profile! I'm a passionate Data Scientist and Machine Learning Engineer from Uganda (The Pearl of Africa). Here you'll find a collection of my data science projects, machine learning experiments, and contributions to the field of analytics.
+Welcome to my GitHub profile! I'm a passionate Data Scientist and Machine Learning Engineer from Uganda (The Pearl of Africa). 
+
+Here you'll find a collection of my data science projects, machine learning experiments, and contributions to the field of analytics.
 
 ## 🚀 About Me
 
 - 🌱 I'm currently mastering **Python, Data Science & Analytics, and Machine Learning**
 - 👯 I'm looking to collaborate on **Machine Learning and Data Science projects**
-- 👨‍💻 All of my projects are available at [Ivan George Driwale's DataCamp Portfolio](https://www.datacamp.com/portfolio/Driwale)
+- 👨‍💻 All of my projects are available at [Driwale's DataCamp Portfolio](https://www.datacamp.com/portfolio/Driwale)
 - 💬 Ask me about **Python, Machine Learning, Data Analytics, and Business Intelligence**
 - 📫 How to reach me: [dylanivandarussian@gmail.com](mailto:dylanivandarussian@gmail.com)
 - ⚡ Fun fact: BigTime Jujutsu Fan, Anime enthusiast, Liverpool FC supporter (YNWA), and Basketball fan (Timberwolves)
