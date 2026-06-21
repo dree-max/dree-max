@@ -1,18 +1,24 @@
 name: gitartwork from a contribution graph
-on: 
+on:
   push:
+    branches:
+      - main
   schedule:
-    - cron: '0 */24 * * *'
+    - cron: '0 0 * * *'
+
+permissions:
+  contents: write
+
 jobs:
   build:
     name: Make gitartwork SVG
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: jasineri/gitartwork@v1
+      - uses: actions/checkout@f43a0e5ff2bd294095638e18286ca9a3d1956744 # v3
+      - uses: jasineri/gitartwork@2a5734739399e2fdfac00731b42df36bc981863e # v1
         with:
-           # Use this username's contribution graph  
+           # Use this username's contribution graph
            user_name: dree-max
-           # Text on contribution graph 
+           # Text on contribution graph
            text: DRIWALE
-      - uses: jasineri/simple-push-action@v1
+      - uses: jasineri/simple-push-action@90c2bcad741630ff39cc521d0edc042028e6220c # v1
